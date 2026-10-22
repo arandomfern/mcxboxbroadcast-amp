@@ -1,8 +1,9 @@
 {
-  "Configurations": [
-    {
-      "Name": "MCXboxBroadcast Standalone",
-      "Path": "mcxboxbroadcast"
-    }
-  ]
+    "id": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+    "authors": ["CubeCoders Limited", "AMP Community", "arandomfern"],
+    "origin": "https://github.com/arandomfern/mcxboxbroadcast-amp.git",
+    "url": "https://github.com/arandomfern/mcxboxbroadcast-amp",
+    "imagefile": "",
+    "prefix": "mcxb",
+    "repotype": "AppTemplates"
 }
